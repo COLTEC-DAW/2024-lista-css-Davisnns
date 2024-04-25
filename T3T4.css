@@ -1,0 +1,48 @@
+.intro{
+    height: 550px;
+}
+
+.design-archives{
+    display: none;
+}
+
+.intro header{
+    background-color:rgb(203, 203, 203);
+    border-radius: 10px;
+    text-align: center;
+    
+}
+
+.intro h1, .intro h2{
+    display: inline-block;
+}
+
+.intro h1{
+    margin: 1em;
+}
+
+footer{
+    background-color:rgb(203, 203, 203);
+    margin: 4%;
+}
+
+.page-wrapper{
+    position: relative;
+}
+
+.explanation{
+    position: relative;
+    width: 60%;
+    margin-right: 35%;
+    border-right: 1px solid #1f295c;
+    padding-right: 2%;
+    display: inline-block;
+}
+
+.design-selection{
+    display: inline-block;
+    position: absolute;
+    top: 560px;
+    left: 62%;
+    padding: 0 2%;
+}
